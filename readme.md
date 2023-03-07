@@ -1,3 +1,9 @@
+## istio
+- istio is service mesh
+- service mesh ... maging communication between microservices
+- envoy proxy
+- istiod ... dulu banyak komponen, sekarang setelah 1.5 tinggal 1 component
+
 ## cloud native
 - promise: 
     - avaliable and scalable
@@ -24,4 +30,4 @@
 - when should adopt?:
     - small .. no need
     - large .. offer wide range of benefit, faster development cycle
-    
+
