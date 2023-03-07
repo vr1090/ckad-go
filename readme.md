@@ -1,0 +1,27 @@
+## cloud native
+- promise: 
+    - avaliable and scalable
+    - agility and developer centric
+- cloud computing:
+    - running apps on cloud provider
+    - monolithic to microservices
+    - scaling should effortless
+- simply running is not a cloud native
+- tenets:
+    - microservices
+    - containers
+    - devops
+        - high level collaboration dev and ops
+        - development practice
+        - CI/CD ... automate software deployment
+        - merging code changes, running automated test
+    - cloud native open standards
+        - standarize
+        - using best practice as they become avaliable
+- open stadard:
+    - open telemetry
+    - service mesh
+- when should adopt?:
+    - small .. no need
+    - large .. offer wide range of benefit, faster development cycle
+    
