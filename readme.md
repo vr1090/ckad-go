@@ -1,3 +1,16 @@
+## devSecOps
+- introduce .. security on our pipeline
+- dulu:
+    - deployment ... dah CI/CD ... 
+    - terus security check in the end
+    - lama ...
+    - deployment baru ini dan itu...
+- sekarang:
+    - masukin beberapa tools during pipeline
+    - sonarqube
+    - k10
+    - backup k8s lu dulu, sebelum execute everything
+
 ## istio
 - istio is service mesh
 - service mesh ... maging communication between microservices
