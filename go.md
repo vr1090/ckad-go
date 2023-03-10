@@ -7,3 +7,5 @@ type Katroer interface{
     Apalah() string
 }
 ``` 
+- variable bisa di convert automatic to pointer
+- tapi engga bisa kalau di passing ke function
