@@ -9,3 +9,11 @@ type Katroer interface{
 ``` 
 - variable bisa di convert automatic to pointer
 - tapi engga bisa kalau di passing ke function
+
+
+```
+var once sync.Once
+once.Do ( func() {
+    initFunction
+})
+```
