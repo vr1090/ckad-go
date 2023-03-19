@@ -1,3 +1,10 @@
+## std lib
+- io
+    - reader
+    - writer
+    - bufio
+    - ioutil --> wrapper for io
+
 ## types, method and interface
 - types are executable documentation
 

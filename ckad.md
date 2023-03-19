@@ -8,4 +8,5 @@
 - controller .. yg cek .. kalau ada pod goes down
 - container runtime .. ini yg jalanin image
 - kubelete .. agent yg jalan di tiap cluster
-    
+- kubectl ... kube command line tools
+
