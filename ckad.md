@@ -8,7 +8,14 @@
     - kubctl run -o yaml --dry-run=client
 - edit
     - kubectl edit pod frontend
-    
+- pod lifecycle
+    - pending
+    - running
+        - success
+        - failed
+    - unknown
+
+
 
 
 ## node
