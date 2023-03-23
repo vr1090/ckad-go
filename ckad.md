@@ -20,7 +20,14 @@
 - env variable:
     - key value pair
     - name and value
-    
+- entrypoint:
+    - command
+    - args
+- namespace:
+    - scope for object name
+- request:
+    - apiVersion, kind, metadata
+
 
 
 
