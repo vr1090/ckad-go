@@ -14,6 +14,9 @@
         - success
         - failed
     - unknown
+- logs
+    - kubectl logs podName 
+    - f buat bilang stream
 
 
 
