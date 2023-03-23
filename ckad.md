@@ -17,7 +17,10 @@
 - logs
     - kubectl logs podName 
     - f buat bilang stream
-
+- env variable:
+    - key value pair
+    - name and value
+    
 
 
 
