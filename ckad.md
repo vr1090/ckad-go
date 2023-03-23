@@ -1,3 +1,11 @@
+## object management
+- imperative
+    -kubectl run
+- declarative
+    - kubectl create
+    - kubectl apply
+    
+
 ## node
 - kumpulan node jadi cluster
 - master ... orchetration of the nodes
