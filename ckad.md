@@ -4,7 +4,12 @@
 - declarative
     - kubectl create
     - kubectl apply
+- hybrid
+    - kubctl run -o yaml --dry-run=client
+- edit
+    - kubectl edit pod frontend
     
+
 
 ## node
 - kumpulan node jadi cluster
